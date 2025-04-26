@@ -3467,8 +3467,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4288914359
+  m_fontColor: {r: 0.7169812, g: 0.6391955, b: 0.6391955, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -5075,8 +5075,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278196388
-  m_fontColor: {r: 0.6415094, g: 0.09257763, b: 0, a: 1}
+    rgba: 4291217617
+  m_fontColor: {r: 0.8207547, g: 0.7844005, b: 0.7781684, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -6238,8 +6238,8 @@ SceneRoots:
   - {fileID: 1735348289}
   - {fileID: 1981820690}
   - {fileID: 1811368345}
-  - {fileID: 593630619}
   - {fileID: 1333257686}
+  - {fileID: 593630619}
   - {fileID: 1843021640}
   - {fileID: 160984042}
   - {fileID: 1727423062}
