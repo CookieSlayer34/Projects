@@ -1520,3 +1520,21 @@ Start importing Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab us
  -> (artifact id: '1eba9976981b8722350a82ea1de2353c') in 0.003342 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 1086.089252 seconds.
+  path: Assets/Scenes/Scence 1.unity
+  artifactKey: Guid(863a3dfacd24044e8981d181ade74696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scence 1.unity using Guid(863a3dfacd24044e8981d181ade74696) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5f1f90f29222292f1301fc4b6842cd2f') in 0.001661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 42.295145 seconds.
+  path: Assets/Scenes/Game play.unity
+  artifactKey: Guid(808c6ea1c968148a19c41c0ec24c6c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game play.unity using Guid(808c6ea1c968148a19c41c0ec24c6c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0eef2d575c3bbda924392ee6b1d652fa') in 0.000684 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
